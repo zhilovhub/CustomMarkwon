@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CustomMarkwon"
 include(":app")
- 
+include(":markwon-core")
